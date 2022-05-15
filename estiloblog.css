@@ -20,3 +20,16 @@ body {
 .container-form p {
     font-size: 25px;
 }
+
+.header {
+    box-shadow: 2px 2px 10px 0 #000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #d00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+}
+
+.header p {
+    color: #f99;
+}
