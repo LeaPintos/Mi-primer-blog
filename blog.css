@@ -15,6 +15,8 @@ body {
 
 .container-form h1 {
     font-size: 70px;
+    text-align: left;
+    padding-left: 75px;
 }
 
 .container-form p {
@@ -32,4 +34,14 @@ body {
 
 .header p {
     color: #f99;
+}
+
+.foto {
+    width: 100px;
+    position: absolute;
+    left: 1130px;
+    top: 170px;
+    border: 3px solid #d00;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0 rgb(239, 139, 139);
 }
